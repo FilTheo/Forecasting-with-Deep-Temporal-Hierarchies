@@ -1,6 +1,9 @@
 # Forecasting-with-Deep-Temporal-Hierarchies
 
 
+**The code is soon to upload** along with a package including the original THieF and other reconciliation techniques
+
+
 This repository includes my work started with me MSc Thesis available here: https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1576994&dswid=-27
 
 
@@ -12,5 +15,3 @@ You can find a working-paper version here: https://papers.ssrn.com/sol3/papers.c
 
 
 
-**The code is soon to upload** along with a package including the original THieF (First introduced here: https://www.sciencedirect.com/science/article/abs/pii/S0377221717301911)
-and other reconciliation techniques will soon be updated.
