@@ -4,7 +4,7 @@
 **The code is soon to upload** along with a package including the original THieF and other reconciliation techniques
 
 
-This repository includes my work started with me MSc Thesis available here: https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1576994&dswid=-27
+This repository includes my work started with my MSc Thesis available here: https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1576994&dswid=-27
 
 
 The work is presented in the International Symposium on Forecasting 2021 (presentation slides: https://www.linkedin.com/posts/filotas-theodosiou-4916881a1_forecasting-with-deep-temporal-hierarchies-activity-6815896904455532544-Ccn9 )
