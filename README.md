@@ -8,5 +8,5 @@ The work is presented in the International Symposium on Forecasting 2021
 Then the work is extended into a submitted paper currently under peer-review.
 You can find a working-paper version here: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3918315
 
-The code is soon to upload along with a package including the original THieF (First introduced here: https://www.sciencedirect.com/science/article/abs/pii/S0377221717301911)
+**The code is soon to upload** along with a package including the original THieF (First introduced here: https://www.sciencedirect.com/science/article/abs/pii/S0377221717301911)
 and other reconciliation techniques will soon be updated.
